@@ -11,6 +11,7 @@ Boot up. Get some fresh.
 - 📫 How to reach me:
   - Instagram: @ferdinankurnian
   - X: @iydheko
+  - Threads: @ferdinankurnian
 
   
 <!---
