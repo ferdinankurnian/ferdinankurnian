@@ -1,17 +1,16 @@
 Boot up. Get some fresh.
 
 - 👋 Hi, I’m Ferdinan Kurnia Nugroho
-- 😄 My Pronouns: dia
+- 😄 My Pronouns: he/him
 
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Vue.js and Electron
 
 - ⚡ Fun fact: I want to learn to be able to do anything
 
 - 📫 How to reach me:
   - Instagram: @ferdinankurnian
   - X: @iydheko
-  - Threads: @ferdinankurnian
 
   
 <!---
