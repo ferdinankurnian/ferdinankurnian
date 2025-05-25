@@ -4,7 +4,7 @@ Boot up. Get some fresh.
 - 😄 My Pronouns: he/him
 
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning React and Electron
+- 🌱 I’m currently learning React, Electron, and Tauri
 
 - ⚡ Fun fact: I want to learn to be able to do anything
 
