@@ -1,19 +1,18 @@
+```bash
+   __              _ _                   _                     _             
+  / _| ___ _ __ __| (_)_ __   __ _ _ __ | | ___   _ _ __ _ __ (_) __ _ _ __  
+ | |_ / _ \ '__/ _` | | '_ \ / _` | '_ \| |/ / | | | '__| '_ \| |/ _` | '_ \ 
+ |  _|  __/ | | (_| | | | | | (_| | | | |   <| |_| | |  | | | | | (_| | | | |
+ |_|  \___|_|  \__,_|_|_| |_|\__,_|_| |_|_|\_\\__,_|_|  |_| |_|_|\__,_|_| |_|
+  _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____    
+ |_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|_____|   
+  / _| ___ _ __ __| (_)_ __   __ _ _ __ (_)_   _  __| | |__   ___| | _____   
+ | |_ / _ \ '__/ _` | | '_ \ / _` | '_ \| | | | |/ _` | '_ \ / _ \ |/ / _ \  
+ |  _|  __/ | | (_| | | | | | (_| | | | | | |_| | (_| | | | |  __/   < (_) | 
+ |_|  \___|_|  \__,_|_|_| |_|\__,_|_| |_|_|\__, |\__,_|_| |_|\___|_|\_\___/  
+                                           |___/
+```
+
 Boot up. Get some fresh.
 
-- 👋 Hi, I’m Ferdinan Kurnia Nugroho
-- 😄 My Pronouns: he/him
-
-- 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning React, Electron, and Tauri
-
-- ⚡ Fun fact: I want to learn to be able to do anything
-
-- 📫 How to reach me:
-  - Instagram: @ferdinankurnian
-  - X: @iydheko
-
-  
-<!---
-ferdinankurnian/ferdinankurnian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ferdinan Kurnia Nugroho, also known as Ferdinan Iydheko.
